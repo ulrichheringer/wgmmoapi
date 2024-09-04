@@ -1,0 +1,21 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: MyString
+  is_weapon: false
+  is_armor: false
+  armor_type: 1
+  is_food: false
+  stats: 1
+  rarity: 1
+  value: 1
+
+two:
+  name: MyString
+  is_weapon: false
+  is_armor: false
+  armor_type: 1
+  is_food: false
+  stats: 1
+  rarity: 1
+  value: 1

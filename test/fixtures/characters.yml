@@ -1,0 +1,47 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  xp: 1
+  gold: 1
+  attack: 1
+  defense: 1
+  health: 1
+  job: 1
+  wanted: false
+  bounty: 1
+  fish_level: 1
+  craft_level: 1
+  smith_level: 1
+  wood_level: 1
+  bounty_level: 1
+  thief_level: 1
+  player_kills: 1
+  bot_kills: 1
+  banker_level: 1
+  dungeon_level: 1
+  dungeon_ranking: 1
+  energy: 1
+  user: one
+
+two:
+  xp: 1
+  gold: 1
+  attack: 1
+  defense: 1
+  health: 1
+  job: 1
+  wanted: false
+  bounty: 1
+  fish_level: 1
+  craft_level: 1
+  smith_level: 1
+  wood_level: 1
+  bounty_level: 1
+  thief_level: 1
+  player_kills: 1
+  bot_kills: 1
+  banker_level: 1
+  dungeon_level: 1
+  dungeon_ranking: 1
+  energy: 1
+  user: two
